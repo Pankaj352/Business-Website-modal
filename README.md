@@ -1,4 +1,4 @@
-# Business-Website-modal
+# Business-Website-model
 # Home
 
 <img width="1061" alt="cafe-website-home" src="https://github.com/Pankaj352/Business-Website-modal/assets/100466858/9a696a1a-30d4-41ce-8680-10f34d03353a">
